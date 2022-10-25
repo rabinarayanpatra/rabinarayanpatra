@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rabinarayan Patra</h1>
-<h3 align="center">A passionate backend developer from India, trying to master full stack</h3>
+<h3 align="center">A passionate Java backend developer from India, trying to master full stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tecnicor&label=Profile%20views&color=0e75b6&style=flat" alt="tecnicor" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot and Hibernate and Microservice based approach to solve problems**
+- 🌱 I’m currently learning and working on **Spring Boot and Hibernate and Microservice based approach to solve problems**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **rabinarayanpatra1999+github@gmail.com**
+- 📫 How to reach me **rabinarayanpatra1999+githubSupport@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rabinarayan-patra-9a58a0214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabinarayan-patra-9a58a021" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rabinarayan-patra-9a58a021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabinarayan-patra-9a58a021" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tecnico r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tecnico r" height="30" width="40" /></a>
 </p>
 
