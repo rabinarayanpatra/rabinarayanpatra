@@ -1,23 +1,77 @@
-<h1 align="center">Hi 👋, I'm Rabinarayan Patra</h1>
-<h3 align="center">A passionate Java backend developer from India, trying to master full stack</h3>
+# 👨‍💻 Rabinarayan Patra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tecnicor&label=Profile%20views&color=0e75b6&style=flat" alt="tecnicor" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabinarayanpatra1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rabinarayandev)
+[![Code-Converse](https://img.shields.io/badge/Code_Converse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code-Converse)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bio.rabinarayanpatra.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabinarayanpatra)
 
-- 🌱 I’m currently learning and working on **Spring Boot and Hibernate and Microservice based approach to solve problems**
+## 💼 Full Stack Developer
 
-- 💬 Ask me about **Java**
+I'm a passionate Full Stack Developer from Bengaluru, India, with a strong focus on Java backend and React frontend. I specialize in building robust, scalable applications using Spring Boot, Hibernate, and microservice architecture for efficient solutions to complex business problems.
 
-- 📫 How to reach me **rabinarayanpatra1999+github@gmail.com**
+### 🚀 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rabinarayan-patra-9a58a021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabinarayan-patra-9a58a021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tecnicorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tecnico r" height="30" width="40" /></a>
+- Design and develop full stack applications with Java backend and React frontend
+- Implement microservice architectures for distributed applications
+- Create RESTful APIs with Spring Boot and secure authentication
+- Build responsive and interactive user interfaces with React
+- Work with relational and NoSQL databases for optimal data solutions
+- Containerize applications with Docker and orchestrate with Kubernetes
+- Continuously explore new technologies to enhance development practices
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight" alt="rabinarayanpatra's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight" alt="rabinarayanpatra's Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🌱 Currently Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnicor&show_icons=true&locale=en&layout=compact" alt="tecnicor" /></p>
+- Advanced microservice patterns and best practices
+- Event-driven architecture with Kafka
+- Cloud-native application development with Kubernetes
+- Performance optimization techniques for Java applications
+- Advanced React patterns and state management
+- GraphQL for efficient API development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnicor&show_icons=true&locale=en" alt="tecnicor" /></p>
+## 💡 Featured Projects
+
+- **[Sanitizer-Lib](https://github.com/rabinarayanpatra/sanitizer-lib)** - A production-grade input sanitization library for Java applications with Spring Boot and JPA integration. It enforces data cleanliness and consistency by automatically cleaning up fields on DTOs and entities through custom annotations. Built with Java 21, Maven, and follows a modular design with Core, Spring, and JPA components.
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on exciting projects or discussing technology. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/rabinarayanpatra1) or visit my [website](https://bio.rabinarayanpatra.com).
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=tecnicor&color=brightgreen)
