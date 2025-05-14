@@ -50,9 +50,18 @@ I'm a passionate Full Stack Developer from Bengaluru, India, with a strong focus
 
 ## 📈 GitHub Stats
 
+<!-- <p align="center">
+  <a href="https://github.com/rabinarayanpatra">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabinarayanpatra&theme=tokyonight" alt="rabinarayanpatra's GitHub Stats Summary" />
+  </a>
+</p> -->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight" alt="rabinarayanpatra's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight" alt="rabinarayanpatra's Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false" alt="rabinarayanpatra's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight" alt="rabinarayanpatra's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight" alt="rabinarayanpatra's Streak Stats" />
 </p>
 
 ## 🌱 Currently Learning
