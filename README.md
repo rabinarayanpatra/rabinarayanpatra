@@ -58,7 +58,7 @@ I'm a passionate Full Stack Developer from Bengaluru, India, with a strong focus
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="rabinarayanpatra's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight" alt="rabinarayanpatra's Top Languages" />
+  <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight" alt="rabinarayanpatra's Top Languages" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight" alt="rabinarayanpatra's Streak Stats" />
