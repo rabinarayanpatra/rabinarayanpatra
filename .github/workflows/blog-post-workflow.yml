@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in posts from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rabinarayanpatra.com/rss.xml"
+          max_post_count: 10
+          template: "- [$title]($url)"
+          commit_message: "chore: sync latest blog posts"
