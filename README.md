@@ -82,16 +82,20 @@ I build backend systems that ship. Java & Spring Boot by day, React & Next.js wh
 ## GitHub Activity
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=rabinarayanpatra&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top languages" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=rabinarayanpatra&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" alt="GitHub trophies" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
