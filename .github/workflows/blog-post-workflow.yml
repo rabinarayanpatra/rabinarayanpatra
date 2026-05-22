@@ -12,9 +12,9 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Pull in posts from RSS feed
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://rabinarayanpatra.com/rss.xml"
           max_post_count: 10

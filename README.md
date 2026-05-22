@@ -41,7 +41,7 @@ I build backend systems that ship. Java & Spring Boot by day, React & Next.js wh
 | **Build & Tools** | Maven · Gradle · Git · IntelliJ IDEA · Postman |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,react,nextjs,typescript,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,maven,gradle,git,idea&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,react,nextjs,typescript,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,maven,gradle,git,idea&perline=9" alt=" " />
 </p>
 
 ---
@@ -50,11 +50,12 @@ I build backend systems that ship. Java & Spring Boot by day, React & Next.js wh
 
 | Project | Stack | Stars |
 |---|---|---|
-| [**sanitizer-lib**](https://github.com/rabinarayanpatra/sanitizer-lib) — Enterprise input sanitization for Java. Annotation-driven, modular (Core + Spring + JPA), on Maven Central. | Java, Spring | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/sanitizer-lib?style=flat&label=&color=4F8CC9) |
-| [**cron-craft**](https://github.com/rabinarayanpatra/cron-craft) — Visual cron expression generator. Build, validate, and preview cron schedules. | Next.js, Tailwind | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/cron-craft?style=flat&label=&color=4F8CC9) |
-| [**sorting-visualizer**](https://github.com/rabinarayanpatra/sorting-visualizer) — Interactive sorting algorithm visualizer. Bubble, merge, quick, heap. | TypeScript | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/sorting-visualizer?style=flat&label=&color=4F8CC9) |
-| [**okta-pkce-auth-js**](https://github.com/rabinarayanpatra/okta-pkce-auth-js) — Framework-agnostic OAuth 2.0 PKCE library for Okta. Zero dependencies. | JavaScript, OAuth | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/okta-pkce-auth-js?style=flat&label=&color=4F8CC9) |
-| [**digital-bizbank-game**](https://github.com/rabinarayanpatra/digital-bizbank-game) — Board game bank digitizer. LAN multiplayer for game-night transactions. | Next.js, SQLite | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/digital-bizbank-game?style=flat&label=&color=4F8CC9) |
+| [**sanitizer-lib**](https://github.com/rabinarayanpatra/sanitizer-lib) — Declarative input sanitization for Java. `@Sanitize` annotation, 17+ built-in sanitizers, Spring Boot autoconfig, JPA lifecycle integration. On Maven Central. | Java, Spring | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/sanitizer-lib?style=flat&label=&color=4F8CC9) |
+| [**port-sheriff**](https://github.com/rabinarayanpatra/port-sheriff) — Native macOS menubar app. See every TCP listening port, kill processes, alert on unknown ports. | Swift 6, SwiftUI | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/port-sheriff?style=flat&label=&color=4F8CC9) |
+| [**docs-generator**](https://github.com/rabinarayanpatra/docs-generator) — Auto-generate docs sites from markdown. [Live demo](https://docs-generator-eta.vercel.app). | Next.js, TypeScript | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/docs-generator?style=flat&label=&color=4F8CC9) |
+| [**creatorbill**](https://github.com/rabinarayanpatra/creatorbill) — Invoices for creators, not accountants. Speaks brand deals: deliverables, usage rights, whitelisting, exclusivity. No signup, free. [Live](https://creatorbill-rho.vercel.app). | Next.js, TypeScript | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/creatorbill?style=flat&label=&color=4F8CC9) |
+| [**sorting-engine**](https://github.com/rabinarayanpatra/sorting-engine) — Java sorting algorithms collection. Clear explanations, extensive test coverage, ready for learning or reuse. | Java | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/sorting-engine?style=flat&label=&color=4F8CC9) |
+| [**hex-json-converter-msgpack**](https://github.com/rabinarayanpatra/hex-json-converter-msgpack) — Web tool: convert between hex strings and JSON via MessagePack. One-click copy, no backend. | HTML, JavaScript | ![Stars](https://img.shields.io/github/stars/rabinarayanpatra/hex-json-converter-msgpack?style=flat&label=&color=4F8CC9) |
 
 ➡️ See all projects on [github.com/rabinarayanpatra](https://github.com/rabinarayanpatra?tab=repositories)
 
@@ -82,19 +83,19 @@ I build backend systems that ship. Java & Spring Boot by day, React & Next.js wh
 ## GitHub Activity
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabinarayanpatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt=" " />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinarayanpatra&theme=tokyonight&hide_border=true" alt=" " />
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=rabinarayanpatra&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" alt="GitHub trophies" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinarayanpatra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt=" " />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=rabinarayanpatra&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" alt=" " />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake.svg" />
+  <img alt=" " src="https://raw.githubusercontent.com/rabinarayanpatra/rabinarayanpatra/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
